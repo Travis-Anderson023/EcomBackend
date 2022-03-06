@@ -1,5 +1,7 @@
-# Note Taker
+# Ecom backend
 <img src="https://img.shields.io/badge/License-MIT License-blue">
+
+**Note mp4 video included in git files**
 
 ## Landing Page
 
